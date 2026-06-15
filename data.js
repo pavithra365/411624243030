@@ -29,3 +29,4 @@ newvar.textContent="New paragraph";
 document.body.appendChild(newvar);
 newvar.remove()
 
+
